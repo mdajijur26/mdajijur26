@@ -1,0 +1,24 @@
+{
+  "background_color": "#ffffff",
+  "description": "BeFoody Digital Menu",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "BeFoody Digital Menu",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "BeFoody Digital Menu",
+  "start_url": "/",
+  "theme_color": "#ffffff",
+  "icons": [
+    {
+      "src": "https://befoody.in/storage/logo/favicon.jpg",
+      "type": "image/jpeg",
+      "sizes": "16x16"
+    },
+    {
+      "src": "https://befoody.in/storage/logo/restro-theme_logo.png",
+      "type": "image/png",
+      "sizes": "166x38"
+    }
+  ]
+}
